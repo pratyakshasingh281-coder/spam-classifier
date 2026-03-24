@@ -1,0 +1,16 @@
+Project Title: Spam Message Classifier
+
+Problem Statement:
+Unwanted spam messages are a common issue in digital communication. These messages can be misleading, harmful, or intrusive. The goal of this project is to develop a machine learning model that can automatically classify messages as spam or not spam.
+
+Objective:
+To build an efficient and accurate spam detection system using Natural Language Processing techniques.
+
+Approach:
+The dataset used contains labeled SMS messages categorized as spam or ham. The text data is converted into numerical format using CountVectorizer. A Multinomial Naive Bayes algorithm is used to train the model. The model is then tested on unseen data to evaluate its performance.
+
+Result:
+The model achieved an accuracy of approximately 98%, successfully identifying spam messages.
+
+Conclusion:
+This project demonstrates how machine learning can be applied to solve real-world problems like spam detection. It can be further improved by using advanced NLP techniques and larger datasets.
