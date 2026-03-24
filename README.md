@@ -40,3 +40,10 @@ Output: Not Spam
 
 # Conclusion
 The project successfully classifies spam messages with high accuracy and demonstrates the use of NLP in real-world applications.
+## 📸 Output Examples
+
+### Spam Example
+![Spam](spam_result.png)
+
+### Not Spam Example
+![Not Spam](notspam_result.png)
