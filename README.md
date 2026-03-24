@@ -43,7 +43,7 @@ The project successfully classifies spam messages with high accuracy and demonst
 ## 📸 Output Examples
 
 ### Spam Example
-![Spam](spam_result.png)
+![Spam](spam_result.png.png)
 
 ### Not Spam Example
-![Not Spam](notspam_result.png)
+![Not Spam](notspam_result.png.png)
